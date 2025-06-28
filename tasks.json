@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries and cook dinner",
+        "status": "in-progress",
+        "createdAt": "2025-06-28T17:08:46.332063",
+        "updatedAt": "2025-06-28T17:20:38.332246"
+    },
+    {
+        "id": 2,
+        "description": "Clean the house",
+        "status": "done",
+        "createdAt": "2025-06-28T17:09:06.520911",
+        "updatedAt": "2025-06-28T17:20:59.706768"
+    },
+    {
+        "id": 3,
+        "description": "Read book",
+        "status": "todo",
+        "createdAt": "2025-06-28T17:11:58.957940",
+        "updatedAt": "2025-06-28T17:11:58.957940"
+    },
+    {
+        "id": 4,
+        "description": "Clean and organize room",
+        "status": "todo",
+        "createdAt": "2025-06-28T17:11:59.105005",
+        "updatedAt": "2025-06-28T17:12:23.837202"
+    }
+]
